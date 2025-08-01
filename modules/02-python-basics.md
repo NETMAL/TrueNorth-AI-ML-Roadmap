@@ -1,4 +1,4 @@
-# 02 Python Fundamentals – Quick Guide
+# Module 2: Python Fundamentals – Quick Guide
 
 ## 📘 Why This Matters
 
